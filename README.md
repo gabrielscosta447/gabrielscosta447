@@ -3,6 +3,8 @@
 
 
 Sou um desenvolvedor web e sou apaixonado por tecnologias da web.
+Atualmente cursando ADS (Análise e Desenvolvimento de Sistemas) na Universidade de Taubaté.
+Sou formado em Técnico em Informática pelo Colégio UNITAU.
 
 - 🌏 Eu sou brasileiro 
 - 💻 Entusiasta de segurança da informação.
