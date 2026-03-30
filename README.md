@@ -10,7 +10,7 @@ Sou formado em Técnico em Informática pelo Colégio UNITAU.
 - 💻 Entusiasta de segurança da informação.
 - 📜 Inglês Básico.
 - 💬 Pergunte-me sobre:
-    - PHP | Laravel
+    - PHP | Laravel | Java
     - VueJS | ReactJS | NextJS
     - SQL
     - Princípios Sólidos | Código Limpo
