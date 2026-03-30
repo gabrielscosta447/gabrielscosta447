@@ -19,8 +19,15 @@ Sou formado em Técnico em Informática pelo Colégio UNITAU.
     - Docker | Linux
       
 #### 🚀 Minhas Habilidades :
-<img src="https://img.icons8.com/?size=512&id=qcPZJD5DNDto&format=png" width="42px"><img src="https://img.icons8.com/?size=120&id=UG5EO81XNkPs&format=png" width="42px"><img src="https://img.icons8.com/fluency/256/javascript.png"  width="42px"><img src="https://img.icons8.com/fluency/256/node-js.png"  width="42px"><img src="https://img.icons8.com/external-others-amoghdesign/256/external-react-native-soleicons-fill-vol-1-others-amoghdesign.png"  width="42px"><img src="https://img.icons8.com/?size=100&id=BUnExfsRs3CW&format=png&color=000000" width="42px" >
-<img src="https://img.icons8.com/?size=512&id=JRnxU7ZWP4mi&format=png" width="42px"><img src="https://img.icons8.com/?size=512&id=20906&format=png" width="42px">
+<img src="https://img.icons8.com/?size=512&id=qcPZJD5DNDto&format=png" width="42px">
+<img src="https://img.icons8.com/?size=120&id=UG5EO81XNkPs&format=png" width="42px">
+<img src="https://img.icons8.com/fluency/256/javascript.png" width="42px">
+<img src="https://img.icons8.com/fluency/256/node-js.png" width="42px">
+<img src="https://img.icons8.com/external-others-amoghdesign/256/external-react-native-soleicons-fill-vol-1-others-amoghdesign.png" width="42px">
+<img src="https://img.icons8.com/?size=100&id=BUnExfsRs3CW&format=png&color=000000" width="42px">
+<img src="https://img.icons8.com/?size=512&id=JRnxU7ZWP4mi&format=png" width="42px">
+<img src="https://img.icons8.com/?size=512&id=20906&format=png" width="42px">
+<img src="https://img.icons8.com/color/512/java-coffee-cup-logo.png" width="42px">
 
 #### 🛰 Como me alcançar:
 
