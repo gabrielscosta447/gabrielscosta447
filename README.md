@@ -28,7 +28,6 @@ Sou formado em Técnico em Informática pelo Colégio UNITAU.
 * 📱 Telefone: 12991789979
 * 📧 Email: costasantos896@gmail.com
 
----
 
 
 
