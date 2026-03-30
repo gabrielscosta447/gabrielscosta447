@@ -23,14 +23,6 @@ Sou formado em Técnico em Informática pelo Colégio UNITAU.
 
 ---
 
-#### 🛰 Como me alcançar:
-
-<a href="https://www.instagram.com/santoscostag/">
-    <img src="./instagram.png" />
-</a>
-
----
-
 #### 📞 Contato
 
 * 📱 Telefone: 12991789979
